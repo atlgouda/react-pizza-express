@@ -4,7 +4,7 @@ class Navbar extends
     Component{
         render(){<Navbar />
         return(<div className='navbar'>
-        <a>Our Story</a>
+        <a href="#description">Our Story</a>
         <a href="#menu">Menu</a>
         <h1>PIZZA- EXPRESS</h1>
         <a>Locations</a>
