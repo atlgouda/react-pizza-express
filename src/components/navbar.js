@@ -5,10 +5,10 @@ class Navbar extends
         render(){<Navbar />
         return(<div className='navbar'>
         <a>Our Story</a>
-        <a>Menu</a>
+        <a href="#menu">Menu</a>
         <h1>PIZZA- EXPRESS</h1>
         <a>Locations</a>
-        <a>Contact</a>
+        <a href="#contact">Contact</a>
         </div>
         )
         }

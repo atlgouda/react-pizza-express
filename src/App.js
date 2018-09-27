@@ -3,6 +3,7 @@ import Navbar from './components/navbar';
 import SplashImage from './components/splash-image';
 import Description from './components/description';
 import Menu from './components/menu';
+import Contact from './components/contact';
 
 
 class App extends Component {
@@ -13,6 +14,7 @@ class App extends Component {
         <SplashImage />
         <Description />
         <Menu />
+        <Contact />
         
       </div>
     );
